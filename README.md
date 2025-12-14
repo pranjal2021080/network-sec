@@ -247,12 +247,10 @@ This repository demonstrates mastery of:
 
 This repository is intended to be:
 
-* **Instructor-friendly**
-* **Technically correct**
 * **Security-focused**
 * **Portfolio-ready**
 
 ---
 
 
-Just say 👍
+
